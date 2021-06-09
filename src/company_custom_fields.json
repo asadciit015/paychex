@@ -1,0 +1,98 @@
+{
+    "metadata": {
+      "contentItemCount": 9
+    },
+    "content": [
+      {
+        "customFieldId": "1090041270413968",
+        "customFieldName": "Capital north",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": true,
+        "type": "BOOLEAN",
+        "booleanValue": false
+      },
+      {
+        "customFieldId": "1090041270413977",
+        "customFieldName": "Capital South",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": true,
+        "type": "BOOLEAN",
+        "booleanValue": false
+      },
+      {
+        "customFieldId": "1090041270523211",
+        "customFieldName": "Southern",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": true,
+        "type": "BOOLEAN",
+        "booleanValue": false
+      },
+      {
+        "customFieldId": "1090041270519102",
+        "customFieldName": "Upper Eastern Shore",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": true,
+        "type": "BOOLEAN",
+        "booleanValue": false
+      },
+      {
+        "customFieldId": "1090041381172077",
+        "customFieldName": "Continue to contact",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": false,
+        "type": "BOOLEAN",
+        "booleanValue": true
+      },
+      {
+        "customFieldId": "1090041270075152",
+        "customFieldName": "Far Western",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": true,
+        "type": "BOOLEAN",
+        "booleanValue": false
+      },
+      {
+        "customFieldId": "1090041270075195",
+        "customFieldName": "Mid Western",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": true,
+        "type": "BOOLEAN",
+        "booleanValue": false
+      },
+      {
+        "customFieldId": "1090041270523205",
+        "customFieldName": "Central",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": true,
+        "type": "BOOLEAN",
+        "booleanValue": false
+      },
+      {
+        "customFieldId": "1090041270413989",
+        "customFieldName": "Lower eastern shore",
+        "categoryId": "1090040641759757",
+        "required": true,
+        "checkStub": false,
+        "employeeEditable": true,
+        "type": "BOOLEAN",
+        "booleanValue": false
+      }
+    ]
+  }
+  
