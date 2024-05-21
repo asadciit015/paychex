@@ -15,8 +15,8 @@ Usage: python main.py' [-h] [-i IMPORT_TO_HUBSPOT] [-l LIMIT] [-offset OFFSET]
     -offset OFFSET, --offset OFFSET
                         Offset
 
-# Uplaod first five records
+# Upload first five records
     Example : python main.py --l 5 --o 0 --i 'true'
 
-# Uplaod all records (it will create/update workers whose <continue to work> field is <Yes> and deletes workers whose <continue to work> field is <No> from HubSpot )
+# Upload all records (it will create/update workers whose <continue to work> field is <Yes> and deletes workers whose <continue to work> field is <No> from HubSpot )
     Example : python main.py --l 5 --o 0 --i 'true'
